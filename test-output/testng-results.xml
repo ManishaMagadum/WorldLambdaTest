@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-05T12:49:50 IST" name="Default suite" finished-at="2023-03-05T12:51:25 IST" duration-ms="95286">
+    <groups>
+    </groups>
+    <test started-at="2023-03-05T12:49:50 IST" name="Default test" finished-at="2023-03-05T12:51:25 IST" duration-ms="95286">
+      <class name="assignment.LambdaTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:assignment.LambdaTest@2dc54ad4]" started-at="2023-03-05T12:49:50 IST" name="setup" finished-at="2023-03-05T12:51:17 IST" duration-ms="87523" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="function1Test()[pri:1, instance:assignment.LambdaTest@2dc54ad4]" started-at="2023-03-05T12:51:18 IST" name="function1Test" finished-at="2023-03-05T12:51:18 IST" duration-ms="842" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- function1Test -->
+        <test-method is-config="true" signature="staticWait()[pri:0, instance:assignment.LambdaTest@2dc54ad4]" started-at="2023-03-05T12:51:18 IST" name="staticWait" finished-at="2023-03-05T12:51:20 IST" duration-ms="2002" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- staticWait -->
+        <test-method signature="function2Test()[pri:2, instance:assignment.LambdaTest@2dc54ad4]" started-at="2023-03-05T12:51:20 IST" name="function2Test" finished-at="2023-03-05T12:51:21 IST" duration-ms="270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- function2Test -->
+        <test-method is-config="true" signature="staticWait()[pri:0, instance:assignment.LambdaTest@2dc54ad4]" started-at="2023-03-05T12:51:21 IST" name="staticWait" finished-at="2023-03-05T12:51:23 IST" duration-ms="2004" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- staticWait -->
+        <test-method signature="function3Test()[pri:3, instance:assignment.LambdaTest@2dc54ad4]" started-at="2023-03-05T12:51:23 IST" name="function3Test" finished-at="2023-03-05T12:51:23 IST" duration-ms="475" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- function3Test -->
+        <test-method is-config="true" signature="staticWait()[pri:0, instance:assignment.LambdaTest@2dc54ad4]" started-at="2023-03-05T12:51:23 IST" name="staticWait" finished-at="2023-03-05T12:51:25 IST" duration-ms="2003" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- staticWait -->
+      </class> <!-- assignment.LambdaTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
